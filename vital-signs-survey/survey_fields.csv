@@ -1,0 +1,10 @@
+"Variable / Field Name","Form Name","Section Header","Field Type","Field Label","Choices, Calculations, OR Slider Labels","Field Note","Text Validation Type OR Show Slider Number","Text Validation Min","Text Validation Max",Identifier?,"Branching Logic (Show field only if...)","Required Field?","Custom Alignment","Question Number (surveys only)","Matrix Group Name","Matrix Ranking?","Field Annotation"
+record_id,form_1,,text,"Record ID",,,,,,,,,,,,,
+age,form_1,,text,Age,,,integer,5,100,,,y,,,,,
+gender,form_1,,radio,Gender,"1, Male | 2, Female",,,,,,,y,,,,,
+weight,form_1,,text,"Weight (kg)",,,integer,10,150,,,y,,,,,
+height,form_1,,text,"Height (cm)",,,integer,50,250,,,,,,,,
+blood_pressure_systolic,form_1,,text,"Blood Pressure (systolic)",,,number,,,,,y,,,,,
+blood_pressure_diastolic,form_1,,text,"Blood Pressure (diastolic)",,,number,,,,,y,,,,,
+resting_heart_rate,form_1,,text,"Resting Heart Rate",,,number,,,,,y,,,,,
+smoker,form_1,,radio,Smoker,"1, Yes | 2, No",,,,,,,y,,,,,
