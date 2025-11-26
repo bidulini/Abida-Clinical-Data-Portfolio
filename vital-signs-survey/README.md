@@ -18,12 +18,6 @@ This REDCap project collects basic health and lifestyle information from partici
 - `resting_heart_rate` – Resting heart rate (bpm)
 - `smoker` – Smoking status (Yes / No)
 
-## Workflow
-1. Participant data is entered via **Form 1**.
-2. All fields must be completed before saving a record.
-3. `record_id` is auto-generated and cannot be edited.
-4. Data is stored securely within REDCap for analysis.
-
 ## Notes
 - This project is designed for baseline health and lifestyle data collection.
 - All fields are required to ensure complete records.
