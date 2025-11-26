@@ -1,0 +1,11 @@
+"Variable / Field Name","Form Name","Section Header","Field Type","Field Label","Choices, Calculations, OR Slider Labels","Field Note","Text Validation Type OR Show Slider Number","Text Validation Min","Text Validation Max",Identifier?,"Branching Logic (Show field only if...)","Required Field?","Custom Alignment","Question Number (surveys only)","Matrix Group Name","Matrix Ranking?","Field Annotation"
+record_id,health_behaviors,,text,"Record ID",,,,,,,,,,,,,
+country,health_behaviors,,text,"In which country do you currently live?",,,,,,,,y,,,,,
+age_group,health_behaviors,,radio,"What is your age group?","1, 18-29 | 2, 30-44 | 3, 45-59 | 4, 60+",,,,,,,y,,,,,
+holidays,health_behaviors,,radio,"What holidays do you celebrate?","1, Eid | 2, Christmas | 3, Other",,,,,,,y,,,,,
+other_holidays,health_behaviors,,text,"What other holidays do you celebrate?",,,,,,,"[holidays] = '3'",,,,,,
+how_many_meals,health_behaviors,,text,"How many holiday meals do you typically eat in one day during your main holiday?",,,integer,0,10,,,,,,,,
+eat_more,health_behaviors,,radio,"Do you eat more during the holidays?","1, Yes | 2, No",,,,,,,,,,,,
+sugar_fat_food,health_behaviors,,text,"Do you eat more sugary foods or fatty foods?",,,,,,,"[eat_more] = '1'",,,,,,
+sleep,health_behaviors,,radio,"Do you sleep more or less during the holidays?","1, I sleep more than usual | 2, I sleep less than usual",,,,,,,,,,,,
+hours_of_sleep,health_behaviors,,radio,"How many hours of sleep do you get on holidays?","1, 5 or less hours | 2, between 5 and 7 hours | 3, 7 and more hours",,,,,,,,,,,,
