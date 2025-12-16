@@ -1,27 +1,54 @@
-# Abida Ganić | Clinical Data Manager & Research Data Specialist
+# Abida Ganić | Clinical Data Management | REDCap | GCP | SAS 
 
-Experienced in REDCap, data management workflows, clinical data quality,
-GCP-certified, and passionate about transforming research data into reliable,
-clean, and analysis-ready datasets.
+Clinical data management professional with hands-on experience in REDCap-based data collection, data quality checks, and clinical data workflows.  
+Background in GCP-compliant research, eCRF design, and data preparation for analysis.  
+Currently expanding skills in **SAS programming for clinical data analysis**.
+
+---
 
 ## 📁 Portfolio Projects
 
 ### 1. Health Behaviors During Traditional Holidays (REDCap Survey)
-- **Type:** Data Collection & REDCap Instrument  
-- **Skills:** branching logic, validation, variable naming, codebook creation  
-- **Folder:** `/holiday-health-survey`
+**Type:** Clinical survey data collection & management  
+**Description:**
+- Designed REDCap instruments with branching logic and validation rules  
+- Implemented standardized variable naming and data dictionary creation  
+- Managed raw data exports for downstream data cleaning and analysis  
 
-### 2.Vital Signs & Lifestyle Mini-Baseline
+**Folder:** `/holiday-health-survey`
 
+---
+
+### 2. Vital Signs & Lifestyle Mini-Baseline
+**Type:** Baseline-style clinical dataset simulation  
+**Description:**
+- Structured REDCap forms to simulate baseline clinical data collection  
+- Focused on data completeness, consistency checks, and documentation  
+- Prepared datasets for analysis and quality review  
+
+**Folder:** `/vital-signs-survey`
+
+---
 
 ## 💡 Skills
-- REDCap: forms, branching logic, data dictionaries, exports  
-- Clinical Data Management workflows  
-- Data Cleaning (Python or Excel)  
-- eCRF development  
-- GCP certified (2025–2028)
 
-- ## 📜 Certifications
-- **Good Clinical Practice (NIDA Clinical Trials Network)**  
-  - Completion Date: 30 Sept 2025  
-  - Valid until: 30 Sept 2028
+- **REDCap:** form design, branching logic, validation rules, data dictionaries, exports  
+- **Clinical Data Management:** data collection workflows, data quality review, validation checks  
+- **Data Cleaning & Validation:** REDCap, SAS (in progress), Excel  
+- **eCRF Development & Documentation**  
+- **GCP-compliant research practices**
+
+---
+
+## 🔧 Ongoing Skill Development
+
+- SAS programming for clinical data analysis  
+- Working with REDCap exports in SAS Studio  
+- Data validation and descriptive statistics for clinical datasets  
+
+---
+
+## 📜 Certifications
+
+**Good Clinical Practice (GCP)** – NIDA Clinical Trials Network  
+Valid: September 2025 – September 2028
